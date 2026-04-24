@@ -87,7 +87,15 @@ Once all extensions are installed, check that the following appear in your Exten
 
 ## 📝 Assignment
 
-Take a **screenshot** of your VS Code Extensions panel showing all six extensions installed and submit it to your teacher as proof of completion.
+1. Take a **screenshot** of your VS Code Extensions panel showing all six extensions installed.
+2. **Save the screenshot** into this folder (`CSP/`) inside your cloned repo on your computer. Name it `screenshot.png` (or `.jpg`).
+3. **Sync it to GitHub** by staging, committing, and pushing the file:
+   ```
+   git add CSP/screenshot.png
+   git commit -m "Add VS Code setup screenshot"
+   git push
+   ```
+4. Confirm the screenshot appears in your GitHub repo under the `CSP/` folder and show your teacher.
 
 ---
 

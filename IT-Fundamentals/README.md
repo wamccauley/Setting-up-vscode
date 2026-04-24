@@ -71,7 +71,15 @@ Once all extensions are installed, you should see them listed under the **Instal
 
 ## 📝 Assignment
 
-Take a **screenshot** of your VS Code Extensions panel showing all four extensions installed and submit it to your teacher as proof of completion.
+1. Take a **screenshot** of your VS Code Extensions panel showing all four extensions installed.
+2. **Save the screenshot** into this folder (`IT-Fundamentals/`) inside your cloned repo on your computer. Name it `screenshot.png` (or `.jpg`).
+3. **Sync it to GitHub** by staging, committing, and pushing the file:
+   ```
+   git add IT-Fundamentals/screenshot.png
+   git commit -m "Add VS Code setup screenshot"
+   git push
+   ```
+4. Confirm the screenshot appears in your GitHub repo under the `IT-Fundamentals/` folder and show your teacher.
 
 ---
 

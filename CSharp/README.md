@@ -62,7 +62,15 @@ Once installed, open Visual Studio Community and confirm the following:
 
 ## 📝 Assignment
 
-Take a **screenshot** of the Visual Studio Installer showing all four workloads checked (or already installed) and submit it to your teacher as proof of completion.
+1. Take a **screenshot** of the Visual Studio Installer showing all four workloads checked (or already installed).
+2. **Save the screenshot** into this folder (`CSharp/`) inside your cloned repo on your computer. Name it `screenshot.png` (or `.jpg`).
+3. **Sync it to GitHub** by staging, committing, and pushing the file:
+   ```
+   git add CSharp/screenshot.png
+   git commit -m "Add Visual Studio setup screenshot"
+   git push
+   ```
+4. Confirm the screenshot appears in your GitHub repo under the `CSharp/` folder and show your teacher.
 
 ---
 
