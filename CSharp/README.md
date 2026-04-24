@@ -2,6 +2,8 @@
 
 Welcome to C#! This course uses **Visual Studio Community** instead of VS Code. Visual Studio Community is a full-featured IDE (Integrated Development Environment) made by Microsoft and is the industry standard for C# and .NET development.
 
+📘 **Textbook:** *Head First C#, Fifth Edition*
+
 ---
 
 ## ✅ Step 1: Download Visual Studio Community
@@ -16,9 +18,22 @@ Click the link below to download **Visual Studio Community** (free for students)
 
 1. Run the downloaded installer (`vs_community.exe`).
 2. When the **Visual Studio Installer** opens, you will be asked to choose **Workloads**.
-3. Select the following workload:
-   - ✅ **.NET desktop development**
-4. Click **Install** and wait for the installation to complete (this may take several minutes).
+3. Select **ALL FOUR** of the following workloads:
+
+   - ✅ **.NET desktop development**  
+     *Build WPF, Windows Forms, and console apps using C# and .NET.*
+
+   - ✅ **.NET Multi-platform App UI development**  
+     *Build cross-platform apps that run on Windows, macOS, iOS, and Android.*
+
+   - ✅ **Game development with Unity**  
+     *Build 2D and 3D games using the Unity game engine and C#.*
+
+   - ✅ **ASP.NET and web development**  
+     *Build web applications and APIs using ASP.NET Core and C#.*
+
+4. Click **Install** and wait for the installation to complete.  
+   > ⚠️ This installation is large and may take **20–40 minutes** depending on your internet speed. Plan accordingly!
 
 ---
 
@@ -32,9 +47,14 @@ Click the link below to download **Visual Studio Community** (free for students)
 
 ## ✅ Step 4: Verify Your Installation
 
-Once installed, open Visual Studio Community and confirm:
+Once installed, open Visual Studio Community and confirm the following:
 
 - [ ] Visual Studio Community launches successfully
+- [ ] You selected and installed all four workloads:
+  - [ ] .NET desktop development
+  - [ ] .NET Multi-platform App UI development
+  - [ ] Game development with Unity
+  - [ ] ASP.NET and web development
 - [ ] You can create a new **Console App (.NET)** project
 - [ ] The project builds and runs without errors
 
@@ -42,7 +62,7 @@ Once installed, open Visual Studio Community and confirm:
 
 ## 📝 Assignment
 
-Take a **screenshot** of Visual Studio Community open with a new Console App project created and submit it to your teacher as proof of completion.
+Take a **screenshot** of the Visual Studio Installer showing all four workloads checked (or already installed) and submit it to your teacher as proof of completion.
 
 ---
 
