@@ -83,6 +83,12 @@ Once all extensions are installed, you should see them listed under the **Instal
      1. Find the screenshot file on your Desktop or in `Downloads`
      2. Click the filename once to select it, then press **Return**
      3. Type `screenshot-setting-up-vscode.jpg` and press **Return**
+   - **How to rename on Linux:**
+     1. Open a terminal in the folder where your screenshot is saved
+     2. Run the following command (replace `original-name.jpg` with your file's actual name):
+        ```
+        mv original-name.jpg screenshot-setting-up-vscode.jpg
+        ```
 
 3. **Save the renamed file** into the `IT-Fundamentals/` folder inside your cloned repo on your computer.
 
