@@ -72,14 +72,28 @@ Once all extensions are installed, you should see them listed under the **Instal
 ## 📝 Assignment
 
 1. Take a **screenshot** of your VS Code Extensions panel showing all four extensions installed.
-2. **Save the screenshot** into this folder (`IT-Fundamentals/`) inside your cloned repo on your computer. Name it `screenshot.png` (or `.jpg`).
-3. **Sync it to GitHub** by staging, committing, and pushing the file:
+
+2. **Rename the screenshot** to match the assignment name using the format below:
+   - Format: `screenshot-setting-up-vscode.jpg`
+   - **How to rename on Windows:**
+     1. Find the screenshot file (usually in your `Pictures` or `Downloads` folder)
+     2. Right-click the file → select **Rename**
+     3. Type `screenshot-setting-up-vscode.jpg` and press **Enter**
+   - **How to rename on Mac:**
+     1. Find the screenshot file on your Desktop or in `Downloads`
+     2. Click the filename once to select it, then press **Return**
+     3. Type `screenshot-setting-up-vscode.jpg` and press **Return**
+
+3. **Save the renamed file** into the `IT-Fundamentals/` folder inside your cloned repo on your computer.
+
+4. **Sync it to GitHub** by staging, committing, and pushing the file:
    ```
-   git add IT-Fundamentals/screenshot.png
+   git add IT-Fundamentals/screenshot-setting-up-vscode.jpg
    git commit -m "Add VS Code setup screenshot"
    git push
    ```
-4. Confirm the screenshot appears in your GitHub repo under the `IT-Fundamentals/` folder and show your teacher.
+
+5. Confirm the screenshot appears in your GitHub repo under the `IT-Fundamentals/` folder and show your teacher.
 
 ---
 
